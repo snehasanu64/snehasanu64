@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sneha! 
+# Hi, I'm Sneha 👋
 
 ### 🚀 Aspiring Web Developer | BCA Student
 
@@ -6,35 +6,46 @@ I'm a passionate developer focused on building practical, high-impact web applic
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ What I know so far
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Some things I've built
+
+- **[sanu-workspace](https://github.com/snehasanu64/sanu-workspace)** — a task and note manager, my first proper MERN project
+- **[Study-Planner](https://github.com/snehasanu64/Study-Planner)** — study schedule tracker built with PHP and MySQL
+- **[Skill-Gap-System](https://github.com/snehasanu64/-Skill-Gap-System)** — compares skills vs industry requirements, gives learning paths
+- **[Restaurant-website](https://github.com/snehasanu64/Restaurant-website)** — frontend site for a local restaurant
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=snehasanu64&show_icons=true&theme=radical" alt="snehasanu64's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snehasanu64&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehasanu64&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-### 🌱 What I'm Up To
-- 🔭 Currently pursuing my **BCA** (Bachelor of Computer Applications).
-- 🌱 Mastering **Full Stack Development** and modern UI/UX principles.
-- 🤝 Looking for opportunities to collaborate on open-source projects.
+## 🌱 Right now
+
+- Learning MERN stack 
+- Trying to build more complete projects, not just tutorials
+- Looking for internship and job opportunities
 
 ---
 
-### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sneha-jagadeesha-0b1610333) 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:snehasanu6227@gmail.com) 
+## 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-jagadeesha-0b1610333)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehasanu6227@gmail.com)
