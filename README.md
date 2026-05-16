@@ -21,10 +21,15 @@ I'm a passionate developer focused on building practical, high-impact web applic
 
 ## 📌 Some things I've built
 
-- **[sanu-workspace](https://github.com/snehasanu64/sanu-workspace)** — a task and note manager, my first proper MERN project
-- **[Study-Planner](https://github.com/snehasanu64/Study-Planner)** — study schedule tracker built with PHP and MySQL
-- **[Skill-Gap-System](https://github.com/snehasanu64/-Skill-Gap-System)** — compares skills vs industry requirements, gives learning paths
-- **[Restaurant-website](https://github.com/snehasanu64/Restaurant-website)** — frontend site for a local restaurant
+## 📌 Things I've built
+
+| Project | What it does | Stack | Live |
+|---|---|---|---|
+| [sanu-workspace](https://github.com/snehasanu64/sanu-workspace) | Personal task, note & schedule manager | MERN | [🔗 Live](https://sanu-workspace.onrender.com/) |
+| [Skill-Gap-System](https://github.com/snehasanu64/-Skill-Gap-System) | Compares your skills vs industry requirements, gives learning paths | PHP, MySQL | [🔗 Live](https://skillgapsystem.great-site.net/skill_gap_analyzer/index.php) |
+| [Password-Strength-Checker](https://github.com/snehasanu64/Password-Strength-Checker) | Real-time password checker with entropy score & password generator | JS | [🔗 Live](https://snehasanu64.github.io/Password-Strength-Checker/) |
+| [Student-Management-System](https://github.com/snehasanu64/Student-Management-System) | Student records CRUD system with admin panel | PHP, MySQL | [🔗 Live](http://studentmanagementsystem.rf.gd/index.html) |
+| [metro-ticketing-system](https://github.com/snehasanu64/metro-ticketing-system) | Metro booking with QR tickets, fare calculator & admin dashboard | PHP, MySQL | — |
 
 ---
 
