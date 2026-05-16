@@ -19,8 +19,6 @@ I'm a passionate developer focused on building practical, high-impact web applic
 
 ---
 
-## 📌 Some things I've built
-
 ## 📌 Things I've built
 
 | Project | What it does | Stack | Live |
