@@ -1,5 +1,4 @@
-# Hi, I'm Sneha 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%26+PHP;Building+real+projects%2C+not+tutorials)](https://git.io/typing-svg)
+# Hi, I'm Sneha 👋[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%26+PHP;Building+real+projects%2C+not+tutorials)](https://git.io/typing-svg)
 
 ### 🚀 Full Stack Developer
 
