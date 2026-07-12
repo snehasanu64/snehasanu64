@@ -35,11 +35,9 @@ I work mainly in MERN (MongoDB, Express, React, Node) and PHP/MySQL, and I've sp
 
 ## 📊 GitHub Stats
 
-![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehasanu64&show_icons=true&theme=tokyonight&hide_border=true)
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=snehasanu64&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com?user=snehasanu64&theme=tokyonight&hide_border=true)
- 
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=snehasanu64&layout=compact&theme=tokyonight&hide_border=true)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=snehasanu64&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=snehasanu64&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=snehasanu64&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
