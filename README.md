@@ -2,7 +2,9 @@
 
 ### 🚀 Full Stack Developer
 
-I'm a passionate developer focused on building practical, high-impact web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
+I'm a full-stack developer who just finished my BCA and is looking for my first full-time role. I like building things end-to-end — figuring out the database, wiring up the backend, and making the UI actually feel right 
+
+I work mainly in MERN (MongoDB, Express, React, Node) and PHP/MySQL, and I've spent the last year building real projects and doing internships instead of just collecting certificates.
 
 ---
 
