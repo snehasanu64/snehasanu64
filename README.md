@@ -5,7 +5,7 @@
 I'm a full-stack developer who just finished my BCA and is looking for my first full-time role. I like building things end-to-end — figuring out the database, wiring up the backend, and making the UI actually feel right 
 
 I work mainly in MERN (MongoDB, Express, React, Node) and PHP/MySQL, and I've spent the last year building real projects and doing internships instead of just collecting certificates.
-
+![GitHub Streak](https://streak-stats.demolab.com?user=snehasanu64&theme=default&hide_border=true)
 ---
 
 ## 🛠️ What I know so far
