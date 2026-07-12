@@ -1,6 +1,6 @@
 # Hi, I'm Sneha 👋
 
-### 🚀 Aspiring Web Developer | BCA Student
+### 🚀 Full Stack Developer
 
 I'm a passionate developer focused on building practical, high-impact web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
 
