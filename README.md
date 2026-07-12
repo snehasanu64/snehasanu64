@@ -25,8 +25,10 @@ I work mainly in MERN (MongoDB, Express, React, Node) and PHP/MySQL, and I've sp
 
 | Project | What it does | Stack | Live |
 |---|---|---|---|
-| [sanu-workspace](https://github.com/snehasanu64/sanu-workspace) | Personal task, note & schedule manager | MERN | [🔗 Live](https://sanu-workspace.onrender.com/) |
+| [Job Application Tracker](https://github.com/snehasanu64/Job_Application_Tracker_Mern) | Tracks job applications through every stage — built while job hunting myself | MERN | [🔗 Live](https://job-application-tracker-mern.onrender.com) |
 | [Skill-Gap-System](https://github.com/snehasanu64/-Skill-Gap-System) | Compares your skills vs industry requirements, gives learning paths | PHP, MySQL | [🔗 Live](https://skillgapsystem.great-site.net/skill_gap_analyzer/index.php) |
+| [The Powder Room Studio](https://github.com/snehasanu64/REPO_NAME_HERE) | Full-stack booking site for a makeup studio, with JWT auth and email notifications | Node, Express, MongoDB, JS | `[add link]` |
+| [sanu-workspace](https://github.com/snehasanu64/sanu-workspace) | Personal task, note & schedule manager | MERN | [🔗 Live](https://sanu-workspace.onrender.com/) |
 | [Password-Strength-Checker](https://github.com/snehasanu64/Password-Strength-Checker) | Real-time password checker with entropy score & password generator | JS | [🔗 Live](https://snehasanu64.github.io/Password-Strength-Checker/) |
 | [Student-Management-System](https://github.com/snehasanu64/Student-Management-System) | Student records CRUD system with admin panel | PHP, MySQL | [🔗 Live](http://studentmanagementsystem.rf.gd/index.html) |
 
