@@ -35,17 +35,19 @@ I work mainly in MERN (MongoDB, Express, React, Node) and PHP/MySQL, and I've sp
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=snehasanu64&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=snehasanu64&layout=compact&theme=tokyonight&hide_border=true)
+![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehasanu64&show_icons=true&theme=tokyonight&hide_border=true)
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=snehasanu64&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com?user=snehasanu64&theme=tokyonight&hide_border=true)
+ 
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=snehasanu64&layout=compact&theme=tokyonight&hide_border=true)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=snehasanu64&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🌱 Right now
 
-- Learning MERN stack 
-- Trying to build more complete projects, not just tutorials
-- Looking for internship and job opportunities
+- Actively looking for fresher software/web developer roles
+- Building out the AI Code Analyzer, my most ambitious project so far
+- Open to full-time opportunities in MERN or PHP stacks
 
 ---
 
